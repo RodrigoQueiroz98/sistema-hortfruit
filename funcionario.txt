@@ -1,9 +1,0 @@
------------------------------------------------------------------
-NOME FUNCIONARIO: Nicolas Carneiro
-CARGO: Vendedor
-CPF: 487487484
-DATA DE NASCIMENTO: 24/01/2006
-EMAIL: nicolas.carneiro@gmail.com
-TELEFONE: 4974874837
-CELULAR: 11738748739
------------------------------------------------------------------
