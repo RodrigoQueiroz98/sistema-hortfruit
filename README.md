@@ -1,6 +1,6 @@
 # 🌱 Sistema de Cadastro e Vendas HortFruit  
 
-Este é um sistema desenvolvido em **C** para gerenciar um hortifrúti, permitindo o cadastro de produtos, clientes, fornecedores, funcionários e usuários, além de realizar vendas com controle detalhado de caixa.  
+Este é um sistema desenvolvido em **C** para gerenciar um hortifrúti, permitindo o cadastro de produtos, clientes, fornecedores, funcionários e usuários, além de realizar vendas com controle detalhado de caixa. *O ARQUIVO DE EXECUÇÃO SE CHAMA PIM.C*
 
 ## 🚀 Funcionalidades  
 
